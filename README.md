@@ -1,4 +1,4 @@
-# Chrome Puppet Module for Boxen
+# SourceTree Puppet Module for Boxen
 
 Install [SourceTree](http://sourcetreeapp.com), a git GUI.
 
